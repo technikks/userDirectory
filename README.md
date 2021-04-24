@@ -1,7 +1,7 @@
 # userDirectory
 
 ## Deployed URL 
-Coming soon :) 
+(https://user-directory-bootcamp-hw19.herokuapp.com/)
 
 
 ## Description
