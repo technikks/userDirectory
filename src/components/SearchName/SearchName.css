@@ -1,7 +1,7 @@
 .searchbox button{
-    border: 1px solid purple;
+    border: 1px solid #DDA0DD;
 }
 .searchbox button:hover {
-    background-color: purple;
+    background-color: #DDA0DD;
     color:white;
 }
